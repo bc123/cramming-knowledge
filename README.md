@@ -1,2 +1,2 @@
-# cramming-knowledge
-Cramming knowledge, all the way till the big day.
+# The Cramming Knowledge Project
+Cramming knowledge, all the way till your big day.
